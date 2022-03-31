@@ -2,7 +2,7 @@
 The chatbot is trained with a set of training data present in /data directory. When the users inputs a query the bot searches for a response from the database if it finds an answer then it provides an appropriate response. 
 
 ## Local Setup:
- 1. Ensure that Python, Flask, SQLAlchemy, and ChatterBot are installed (either manually, or run `pip install -r requirements.txt`).
+ 1. Ensure that Python, Flask, SQLlite, and ChatterBot are installed (either manually, or run `pip install -r requirements.txt`).
  2. Run *app.py* with `python app.py`.
  3. The demo will be live at [http://localhost:5000/](http://localhost:5000/)
 
